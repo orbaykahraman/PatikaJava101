@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BasitHesapMakinasi {
+public class BasitHesapMakinesi {
     public static void main(String[] args) {
         double n1, n2;
         int select;
