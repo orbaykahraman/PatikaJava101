@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class girilensayidankucuk2ninkuvvetleri {
+public class girilensayidankucuk4ve5inkuvvetleri {
     public static void main(String[] args) {
         Scanner girdi = new Scanner(System.in);
         int x;
